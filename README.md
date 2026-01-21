@@ -13,14 +13,14 @@ Repository of KafevilleManualAndAutomatedTestingDocumentsProject contain delivra
 QA Manual testing tools 
 
 JIRA - is a project management tool that brings teams together to collaborate, to plan, track, and deliver any type of project.
-MantisHub - is a platform for team collaboration, issue tracking, filter issues by categories, do bookmarking, statistics, reports and knowledge sharing all within a simple, intuitive interface.
+MANTISHUB - is a platform for team collaboration, issue tracking, filter issues by categories, do bookmarking, statistics, reports and knowledge sharing all within a simple, intuitive interface.
 
 QA Automation testing tools
 
 IntlliJ IDE - is an Integrated Development Environment (IDE) for development of projects code with Java programming language. 
-JAVA 
-MAVEN build tool
-SELENIUM WebDriver
+JAVA - programming language for writing projects code.
+MAVEN - is a build tool for Java projects using a project object model (POM) for dependencies to frameworks, Maven manages a project's compilation, testing, and documentation.
+SELENIUM WebDriver - is a web framework that permits to execute cross-browser tests and used for automating web-based application testing to verify if performs expectedly. Allows to choose a programming language to create test scripts, code.
 TestNG
 ChromeDriver
 
