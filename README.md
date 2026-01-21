@@ -21,8 +21,8 @@ IntlliJ IDE - is an Integrated Development Environment (IDE) for development of 
 JAVA - programming language for writing projects code.
 MAVEN - is a build tool for Java projects using a project object model (POM) for dependencies to frameworks, Maven manages a project's compilation, testing, and documentation.
 SELENIUM WebDriver - is a web framework that permits to execute cross-browser tests and used for automating web-based application testing to verify if performs expectedly. Allows to choose a programming language to create test scripts, code.
-TestNG
-ChromeDriver
+TestNG - (Test Next Generation) is a Java-based testing framework that offer flexible features for unit, functional, integration, and end-to-end tests, enabling parallel execution, grouping, parameterization, and dependency management using annotations and XML configuration, making automated testing more efficient and easier to manage.
+ChromeDriver - is a separate executable that Selenium WebDriver uses to control Chrome browser to execute web-based application testing scripts. 
 
 
 
