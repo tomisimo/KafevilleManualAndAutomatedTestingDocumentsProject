@@ -10,3 +10,19 @@ Repository of KafevilleManualAndAutomatedTestingDocumentsProject contain delivra
 3 PDF files "JIRA documents" folder contain : JIRA Test Cases, Bug Reports PDF format
 4 PNG files "MantisHub Bug Reports" folder contain : MantisHub Bug Reports screenshots
 
+QA Manual testing tools 
+JIRA - is a project management tool that brings teams together to collaborate, to plan, track, and deliver any type of project.
+MantisHub - is a platform for team collaboration, issue tracking, filter issues by categories, do bookmarking, statistics, reports and knowledge sharing all within a simple, intuitive interface.
+
+QA Automation testing tools
+IntlliJ IDE - is an Integrated Development Environment (IDE) for development of projects code with Java programming language. 
+JAVA 
+MAVEN build tool
+SELENIUM WebDriver
+TestNG
+ChromeDriver
+
+
+
+
+
