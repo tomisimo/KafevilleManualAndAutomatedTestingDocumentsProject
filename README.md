@@ -26,6 +26,8 @@ QA Automation testing tools
 
 [MAVEN] - un sistem de build și administrare a proiectelor, scrise în Java pentru crearea structurii proiectului și conectarea bibliotecilor, instrumentelor necesare până la implementarea produsului.   Fișierele XML, denumite POM-uri (Project Object Model) contin informatii despre module si dependente si in acestea intre <dependency></dependency> tag conectam instrumentele (Selenium, TestNG, Junit) la proiect. Maven stabileste si o structură fixa de proiect compusa din (src/main/java ; src/main/resources ; src/test/java).
 
+[SELENIUM WebDriver] - Selenium WebDriver este un framework, instrument care permite sa fie executate teste cross-browser (in mai multe tipuri de browsere :Chrome, Firefox, Safari). Este utilizat pentru automatizarea testării aplicațiilor web pentru a verifica dacă acestea funcționează conform așteptărilor. Selenium WebDriver permite alegerea mai multor limbaje de programare (Java, Python, Javascript) pentru a crea codul, scripturi de testare.
+
 [TestNG] - este un framework, instrument de testare conceput pentru Unit, Functional, Integration, si End-to-end test oferind capabilitati precum : Adnotari, Testare Paralela (executarea suitelor de teste in aceelasi timp) , Gruparea Testelor ( grupam testele si le etichetam precum Smoke , Sanity , Functional), Data-Driven Testing ( executarea testelor cu mai multe seturi de date de test) si Rapoarte detaliate astfel fiind un instrument popular pentru automatizarea testelor cu instrumentul precum Selenium. 
 
 
