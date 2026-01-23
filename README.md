@@ -26,6 +26,8 @@ QA Automation testing tools
 
 [MAVEN] - un sistem de build și administrare a proiectelor, scrise în Java pentru crearea structurii proiectului și conectarea bibliotecilor, instrumentelor necesare până la implementarea produsului.   Fișierele XML, denumite POM-uri (Project Object Model) contin informatii despre module si dependente si in acestea intre <dependency></dependency> tag conectam instrumentele (Selenium, TestNG, Junit) la proiect. Maven stabileste si o structură fixa de proiect compusa din (src/main/java ; src/main/resources ; src/test/java).
 
+[TestNG] - este un framework, instrument de testare conceput pentru Unit, Functional, Integration, si End-to-end test oferind capabilitati precum : Adnotari, Testare Paralela (executarea suitelor de teste in aceelasi timp) , Gruparea Testelor ( grupam testele si le etichetam precum Smoke , Sanity , Functional), Data-Driven Testing ( executarea testelor cu mai multe seturi de date de test) si Rapoarte detaliate astfel fiind un instrument popular pentru automatizarea testelor cu instrumentul precum Selenium. 
+
 
 
 
