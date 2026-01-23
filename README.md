@@ -24,7 +24,7 @@ QA Automation testing tools
 [TestNG - (Test Next Generation)] is a Java-based testing framework that offer flexible features for unit, functional, integration, and end-to-end tests, enabling parallel execution, grouping, parameterization, and dependency management using annotations and XML configuration, making automated testing more efficient and easier to manage.
 [ChromeDriver] - is a separate executable that Selenium WebDriver uses to control Chrome browser to execute web-based application testing scripts. 
 
-[MAVEN] - un sistem de build și administrare a proiectelor, scrise în Java pentru crearea structurii proiectului și conectarea bibliotecilor, instrumentelor necesare până la implementarea produsului. Proiectele sunt descrise printr-unul sau mai multe fișier XML, denumite POM-uri (Project Object Model), iar au o structură similara compusa din (src/main/java ; src/main/resources ; src/test/java) . POM-ul principal conține informații, despre module și despre dependențele proiectului ca adrese catre (alte instrumente Selenium , TestNG). 
+[MAVEN] - un sistem de build și administrare a proiectelor, scrise în Java pentru crearea structurii proiectului și conectarea bibliotecilor, instrumentelor necesare până la implementarea produsului.   Fișierele XML, denumite POM-uri (Project Object Model) contin informatii despre module si dependente si in acestea intre <dependency></dependency> tag conectam instrumentele (Selenium, TestNG, Junit) la proiect. Maven stabileste si o structură fixa de proiect compusa din (src/main/java ; src/main/resources ; src/test/java).
 
 
 
